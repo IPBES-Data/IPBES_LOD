@@ -1,6 +1,6 @@
 This directory contains the IPBES First Global Assessment Report on Biodiversity and Ecosystem Services (GA1) in LOD format.
 
-The structure of the file follows the IPBES ontology version 04:
+The structure of the file follows the IPBES ontology version 06:
 https://github.com/IPBES-Data/IPBES_Ontology
 
 The assessment report is published in 2019 and consists of 6 chapters and a Summary for Policy Makers (SPM).

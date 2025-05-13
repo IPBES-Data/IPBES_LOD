@@ -1,6 +1,6 @@
 This directory contains the IPBES assessment report on the sustainable use of wild species in LOD format.
 
-The structure of the file follows the IPBES ontology version 04:
+The structure of the file follows the IPBES ontology version 06:
 https://github.com/IPBES-Data/IPBES_Ontology
 
 The assessment report is published in 2022 and consists of 6 chapters and a Summary for Policy Makers (SPM).
