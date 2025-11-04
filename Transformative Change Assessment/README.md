@@ -1,4 +1,5 @@
 This directory contains the IPBES Transformative Change Assessment in LOD format.
+DOI: https://doi.org/10.5281/zenodo.17100213
 
 The structure of the file follows the IPBES ontology version 06:
 https://github.com/IPBES-Data/IPBES_Ontology
