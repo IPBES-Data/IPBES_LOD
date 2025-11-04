@@ -1,4 +1,5 @@
 This directory contains the IPBES Methodological Assessment Report on the Diverse Values and Valuation of Nature (VA) in LOD format.
+DOI: https://doi.org/10.5281/zenodo.10961206
 
 The structure of the file follows the IPBES ontology version 06:
 https://github.com/IPBES-Data/IPBES_Ontology
