@@ -1,4 +1,5 @@
 This directory contains the IPBES assessment report on the sustainable use of wild species in LOD format.
+DOI: https://doi.org/10.5281/zenodo.15144712
 
 The structure of the file follows the IPBES ontology version 06:
 https://github.com/IPBES-Data/IPBES_Ontology
