@@ -1,4 +1,4 @@
-This directory contains the IPBES Assessment Report on Land Degradation and Restoration in LOD format.
+This directory contains the IPBES Assessment Report on Land Degradation and Restoration in LOD format. DOI: https://doi.org/10.5281/zenodo.19084007
 
 The structure of the file follows the IPBES ontology version 06:
 https://github.com/IPBES-Data/IPBES_Ontology
