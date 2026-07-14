@@ -1,4 +1,4 @@
-This directory contains the IPBES Pollinators, Pollination and Food Production Assessment (PPA) in LOD format.
+This directory contains the IPBES Pollinators, Pollination and Food Production Assessment (PPA) in LOD format. DOI: https://doi.org/10.5281/zenodo.21357480
 
 
 The structure of the file follows the IPBES ontology version 06:
