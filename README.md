@@ -12,8 +12,8 @@ Nine reports are available in ttl format to date:
 - the [Transformative Change Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Transformative%20Change%20Assessment) (TCA).
 - the [Land Degradation and Restoration Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Land%20Degradation%20and%20Restoration%20Assessment) (LDR).
 - the [Pollinators, Pollination and Food Production Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Pollinators%20Assessment) (PPA)
-- the [Scenarios and Models of Biodiversity and Ecosystem Services Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Pollinators%20Assessment) (SCM)
-- the [Business and Biodiversity Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Pollinators%20Assessment) (BBA)
+- the [Scenarios and Models of Biodiversity and Ecosystem Services Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Scenarios%20and%20Models%20Assessment) (SCM)
+- the [Business and Biodiversity Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Business%20and%20Biodiversity%20Assessment) (BBA)
 
 
 More details on each assessment can be found in the corresponding folder.
