@@ -4,7 +4,7 @@ To make the IPBES assessment reports more accessible and searchable, we have bro
 
 All reports are mapped to the LOD format based on the IPBES ontology we have developed. More information about the ontology can be found at: https://github.com/IPBES-Data/IPBES_Ontology
 
-Seven reports are available in ttl format to date:
+Nine reports are available in ttl format to date:
 - the [First Global Assessment](https://github.com/IPBES-Data/IPBES_LOD/blob/main/Global%20Assessment%201) (GA1)
 - the [Values Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Values%20Assessment) (VA)
 - the [Invasive Alien Species Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Invasive%20Alien%20Species%20Assessment) (IAS).
@@ -12,7 +12,8 @@ Seven reports are available in ttl format to date:
 - the [Transformative Change Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Transformative%20Change%20Assessment) (TCA).
 - the [Land Degradation and Restoration Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Land%20Degradation%20and%20Restoration%20Assessment) (LDR).
 - the [Pollinators, Pollination and Food Production Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Pollinators%20Assessment) (PPA)
-
+- the [Scenarios and Models of Biodiversity and Ecosystem Services Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Pollinators%20Assessment) (SCM)
+- the [Business and Biodiversity Assessment](https://github.com/IPBES-Data/IPBES_LOD/tree/main/Pollinators%20Assessment) (BBA)
 
 
 More details on each assessment can be found in the corresponding folder.
