@@ -1,4 +1,4 @@
-This directory contains the IPBES Europe and Central Asia Assessment (ECA) in LOD format. 
+This directory contains the IPBES Europe and Central Asia Assessment (ECA) in LOD format. DOI: https://doi.org/10.5281/zenodo.23727408
 
 
 The structure of the file follows the IPBES ontology version 06:
